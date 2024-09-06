@@ -37,8 +37,8 @@ button:hover {
 
 .heart {
     position: relative;
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     background: red;
     margin: 0 auto;
     transform: rotate(-50deg);
